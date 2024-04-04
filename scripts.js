@@ -1,4 +1,4 @@
-const apiKey = d649460d3a9af8f8438219f40fbf41d3;
+const key = "d649460d3a9af8f8438219f40fbf41d3"
 
 function clickedOnButton() {
     const city = document.querySelector(".input-city").value
